@@ -6,4 +6,4 @@ If you're interested, here's a list of repos I've recently developed while movin
 
 * Simple Angular speedometer component https://logivad.github.io/test-speedometer/
 * More complex Angular bar chart component https://logivad.github.io/test-chart/
-* A little Angular application (new email can be created, drafts are saved to browser storage) https://logivad.github.io/test-bothelp/auto
+* A little Angular application (new email can be created, drafts are saved to browser storage) https://logivad.github.io/test-bothelp/
