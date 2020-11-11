@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Vadim. I work as a web fronted developer. Here is my [LinkedIn profile](https://logivad.github.io/test-bothelp/auto)
+My name is Vadim. I work as a web fronted developer.
+Here is my [personal website](https://logivad.github.io/)
+And this is my [LinkedIn profile](https://logivad.github.io/test-bothelp/auto)
 
 If you're interested, here's a list of repos I've recently developed while moving through interviews
 
